@@ -1,0 +1,42 @@
+======================================================
+                 HOJA DE VIDA
+======================================================
+
+DATOS PERSONALES
+------------------------------------------------------
+Nombre: Julio Alvarado
+Carnet: 202307764
+Ocupación: Estudiante de Ingeniería / Desarrollador de Software
+
+PERFIL PROFESIONAL
+------------------------------------------------------
+Estudiante de ingeniería con gran interés en el desarrollo de software, automatización y arquitecturas de hardware. Con experiencia práctica en la creación de aplicaciones de escritorio y web, enfocado en escribir código limpio y optimizado. Capaz de adaptarse a diferentes lenguajes y entornos de desarrollo, desde la manipulación de datos hasta la creación de interfaces gráficas.
+
+HABILIDADES TÉCNICAS
+------------------------------------------------------
+* Lenguajes de Programación: C++, Python, C#.
+* Tecnologías y Frameworks: Qt, ASP.NET (Razor Views).
+* Herramientas: Git, GitHub, CMake.
+* Conocimientos adicionales: Web scraping, estructuras de datos, analizadores léxicos, configuración y optimización de hardware de PC.
+
+PROYECTOS DESTACADOS
+------------------------------------------------------
+1. MedLexer (C++ / Qt)
+   - Desarrollo de un analizador léxico utilizando el método del árbol.
+   - Creación de una interfaz gráfica de usuario fluida con Qt.
+   - Generación automática de reportes en formato HTML.
+   - Configuración y gestión del proceso de compilación mediante CMakeLists.txt.
+
+2. Bot Hospital Scraper (Python)
+   - Desarrollo de un script automatizado para la extracción de datos.
+   - Control de versiones y despliegue del código fuente en GitHub.
+
+3. Aplicación de Gestión de Productos (C# / Razor)
+   - Desarrollo de una aplicación web completa con arquitectura CRUD.
+   - Implementación de lógica de negocio y consumo de servicios HTTP para la administración del catálogo.
+
+INTERESES Y PASATIEMPOS
+------------------------------------------------------
+* E-sports y gaming competitivo (League of Legends, osu!).
+* Entusiasta del hardware, ensamblaje de computadoras y optimización de rendimiento gráfico.
+* Fórmula 1 y análisis de las normativas técnicas de los monoplazas.
